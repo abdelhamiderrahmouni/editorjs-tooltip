@@ -17,17 +17,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kommitters/editorjs-tooltip.git"
+    "url": "https://github.com/abdelhamiderrahmouni/editorjs-tooltip.git"
   },
   "author": {
-    "name": "kommitters Open Source",
-    "email": "oss@kommit.co"
+    "name": "Abdelhamid errahmouni",
+    "email": "contact@errahmouni.space"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kommitters/editorjs-tooltip/issues"
+    "url": "https://github.com/abdelhamiderrahmouni/editorjs-tooltip/issues"
   },
-  "homepage": "https://github.com/kommitters/editorjs-tooltip#readme",
+  "homepage": "https://github.com/abdelhamiderrahmouni/editorjs-tooltip#readme",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.6",
